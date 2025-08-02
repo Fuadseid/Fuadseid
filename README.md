@@ -37,4 +37,3 @@ I'm passionate about learning new things and always eager to embrace emerging te
 
 
 
-add something to this readmy like rate me A B C like i see some peaples profile
