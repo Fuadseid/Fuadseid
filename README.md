@@ -1,39 +1,32 @@
 # Hi there! 👋 I'm Fuad Seid
 
-## 🚀 About Me
+## � About Me
+I'm a **Full-Stack Developer** & **Data Scientist** with expertise in **Next.js**, **Laravel**, and **Flutter**, building scalable web/mobile applications. Passionate about **deep learning** and creating high-performance AI models.  
+🔹 **Git/GitHub** expert ensuring collaborative workflows  
+🔹 **Continuous learner** in emerging technologies  
 
-I'm a software engineer specializing in **Next.js**, **Laravel**, and **Flutter**—making me a cross-platform developer passionate about building robust web and mobile applications. In addition to my development skills, I'm a data scientist deeply immersed in **deep learning**, always striving to develop high-performing AI models.
+## 🛠️ Tech Stack
 
-I pride myself on my proficiency with **Git** and **GitHub**, ensuring streamlined and collaborative workflows in every project.
+### 🌐 **Frontend**
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="20"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="20">  
 
-## 🛠️ Skills & Technologies
+### ⚙️ **Backend**
+<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="20">  
 
-- ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white) **Next.js**
-- ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white) **Laravel**
-- ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white) **Flutter**
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**
-- ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) **Dart**
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) **PHP**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) **Python**
-- ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white) **Deep Learning & Data Science**
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) **Git**
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) **GitHub**
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) **VSCode**
-- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) **Jupyter Notebook**
+### 📱 **Mobile**
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height="20">  
 
-## 💡 What Drives Me
+### 🤖 **AI/Data Science**
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="20"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" height="20">  
 
-I'm passionate about learning new things and always eager to embrace emerging technologies, tools, and frameworks. My goal is to continuously improve and contribute to impactful projects.
+### 🧰 **Tools**
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="20"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="20"> <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" height="20">  
 
-## 📫 Get in Touch
+## 🚀 What Drives Me
+> _"Passionate about turning ideas into reality through code. Always exploring new tech frontiers in development and AI."_
 
-- **Email:** [fuaddbus@gmail.com](mailto:fuaddbus@gmail.com)
-- **LinkedIn:** [Fuad Seid](https://www.linkedin.com/in/fuad-seid-8b61322a9/)
+## 📬 Let's Connect
+<a href="mailto:fuaddbus@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="22"></a> 
+<a href="https://www.linkedin.com/in/fuad-seid-8b61322a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="22"></a>  
 
----
-
-*Let's connect and create something amazing!*
-
-
-
-
+![Footer Wave](https://github.com/fuadseid/fuadseid/blob/main/wave.svg) *(Let's build something amazing!)*
