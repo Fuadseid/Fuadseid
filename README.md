@@ -8,7 +8,7 @@ I'm a **Full-Stack Developer** & **Data Scientist** with expertise in **Next.js*
 ## 🛠️ Tech Stack
 
 ### 🌐 **Frontend**
-<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="20"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="20">  
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="20"> <img src="https://img.shields.io/badge/react?logo=react&logoColor=black" height="20">  
 
 ### ⚙️ **Backend**
 <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="20">  
